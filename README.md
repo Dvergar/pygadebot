@@ -1,6 +1,8 @@
 # Pygadebot
 
-Pygadebot is a simple python irc bot which regularly sends tweets on a channel from a customized twitter search. Could have been a gist...
+Pygadebot is a simple python irc bot which regularly sends tweets on a channel from a customized twitter search.
+
+*More a gist than anything else.*
 
 ## Tutorial
 * Make a search on twitter, let's say you searched for "super noodles", you'll get that url `https://twitter.com/#!/search/super%20noodles`.
